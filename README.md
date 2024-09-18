@@ -1,5 +1,7 @@
 #### An expense tracking system is a modern web application designed to help individuals and businesses manage their finances by tracking their income and expenditures. Leveraging the powerful and flexible React library, this system provides a dynamic and responsive user interface, ensuring an intuitive user experience across various devices.
 ![Screenshot (70)](https://github.com/user-attachments/assets/62b62ad7-54f3-45bb-98f9-3cb3b77dae90)
+
+
 ![Screenshot (71)](https://github.com/user-attachments/assets/bf7a2d38-3e94-4345-a079-32fee46abcec)
 
 
